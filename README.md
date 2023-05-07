@@ -1,16 +1,27 @@
 ### Hi there 👋
+I'm Fr0stF0x, a Full-stack web developer with 4+ years of well-rounded experience in building web applications.
 
-<!--
-**fr0stf0x/fr0stf0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 I'm currently working at
 
-Here are some ideas to get you started:
+ZaloPay (Software Engineer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CoderSchool (Mentor for full-stack web development course)
+
+### 🌱 I'm currently learning
+
+Next.JS
+Rust
+
+### 📫 How to reach me
+
+Email: tang.xuanthao1996@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/tang-xuan-thao/
+
+### 💬 Ask me about
+
+React.JS
+
+Node.JS
+
+#### Thanks for stopping by!
